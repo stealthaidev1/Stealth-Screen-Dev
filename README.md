@@ -3,7 +3,7 @@
 **StealthDev** is a stealth-focused tool for developers who want to solve coding problems faster, debug with clarity, and stay fully in control. It runs quietly on your screen, providing step-by-step solutions, time and space complexity analysis, and a clean, movable interface that stays out of the way.
 
 Visit the website: [https://stealthscreen.dev](https://stealthscreen.dev)  
-Follow us on X: [https://x.com/StealthAIdev](https://x.com/StealthAIdev)
+Follow us on X: [https://x.com/stealthscreendev](https://x.com/stealthscreendev)
 
 ---
 
@@ -63,6 +63,11 @@ Just install and start solving.
 MIT License. Free to use, modify, and distribute with credit.
 
 ---
+
+## Links
+
+Website: [https://stealthscreen.dev](https://stealthscreen.dev)  
+X: [https://x.com/stealthscreendev](https://x.com/stealthscreendev)
 
 ## Links
 
